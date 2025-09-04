@@ -2,7 +2,7 @@
 :root {
 --preto: #000;
 --branco: #fff;
---azul : #204b5e;
+--vermelho : #77181e;
 --azul-médio: #2f4dd1;
 --amarelo:#cfe80d;
 }
@@ -22,13 +22,13 @@ color: var(--branco);/*cor da fonte*/
 }
 
 .chamada-texto {
-background-color: var(--amarelo);
+background-color: var(--);
 color: var(--preto);
 margin-right: 20px;/*margem a direita*/
 }
 
 .chamada {
-background: rgb(184, 156, 213);
+background: rgb(109, 5, 5);
 padding-bottom: 80px;/*espaçamento inferior*/
 
 padding-top: 80px;/*espaçamento superior*/
