@@ -2,23 +2,23 @@
 :root {
 --vermelho: #e8373e;
 --branco: #fff;
---lilas-claro: #eb76db;
+--azul : #204b5e;
 --azul-médio: #2f4dd1;
 --amarelo:#cfe80d;
 }
 /*corpo da página*/
 body {
 color: var(--branco);/*cor da fonte*/
-background-color: var(--preto);/*cor de fundo*/
+background-color: var(--azul);/*cor de fundo*/
 margin: 0px; /* não terá margem padrão*/
 }
 
 header {
 border: solid 2px;
-border-color: var(--branco);/*cor da borda*/
+border-color: var(--vermelho);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
-color: var(--amarelo);/*cor da fonte*/
+color: var(--branco);/*cor da fonte*/
 }
 
 .chamada-texto {
