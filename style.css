@@ -1,6 +1,6 @@
 /*variaveis*/
 :root {
---vermelho: #e8373e;
+--preto: #000;
 --branco: #fff;
 --azul : #204b5e;
 --azul-médio: #2f4dd1;
@@ -9,13 +9,13 @@
 /*corpo da página*/
 body {
 color: var(--branco);/*cor da fonte*/
-background-color: var(--azul);/*cor de fundo*/
+background-color: var(--preto);/*cor de fundo*/
 margin: 0px; /* não terá margem padrão*/
 }
 
 header {
 border: solid 2px;
-border-color: var(--vermelho);/*cor da borda*/
+border-color: var(--azul-médio);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
 color: var(--branco);/*cor da fonte*/
