@@ -15,14 +15,14 @@ margin: 0px; /* não terá margem padrão*/
 
 header {
 border: solid 2px;
-border-color: var(--azul-médio);/*cor da borda*/
+border-color: var(--preto);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
 color: var(--branco);/*cor da fonte*/
 }
 
 .chamada-texto {
-background-color: var(--);
+background-color: var(--);QP2QG43VNXo
 color: var(--preto);
 margin-right: 20px;/*margem a direita*/
 }
